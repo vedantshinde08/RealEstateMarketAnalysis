@@ -35,8 +35,3 @@ Built with **Tableau**, the dashboard includes:
 
 ## 👨‍💻 Author
 **Vedant Popat Shinde**  
-📧 vedantshinde08@gmail.com  
-🔗 [GitHub Repository](https://github.com/vedantshinde08/Real-Estate-Market-Analysis)
-
-## 📄 License
-This project is for academic and demonstration purposes only.
